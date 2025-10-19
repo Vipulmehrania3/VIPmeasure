@@ -1,0 +1,7 @@
+{
+  "name": "AR Pixel Ruler: Live Camera Measurement",
+  "description": "A web application to measure real-world distances using your device's camera. Calibrate with an object of known length and distance, then measure anything on the same plane. Adjust for perspective by telling the app if you move closer or further away.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
